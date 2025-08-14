@@ -1,0 +1,12 @@
+risk-analyzer-app
+├── index.html
+├── css
+│   └── styles.css
+├── js
+│   ├── api.js
+│   ├── metrics.js
+│   ├── ui.js
+│   └── main.js
+├── assets
+│   └── (optional icons, logos)
+└── README.md
