@@ -1,0 +1,19 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment/API keys
+.env
+
+# Node modules (if you add build tools later)
+node_modules/
+
+# Optional: OS-specific
+*.swp
+*.swo
+
+# Optional: VS Code settings
+.vscode/
